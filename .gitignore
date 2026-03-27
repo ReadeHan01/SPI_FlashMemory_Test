@@ -1,0 +1,13 @@
+# STM32CubeIDE / build
+Debug/
+Release/
+*.launch
+.metadata/
+.settings/
+
+# Common
+*.o
+*.elf
+*.map
+*.bin
+*.hex
